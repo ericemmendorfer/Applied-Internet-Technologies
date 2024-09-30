@@ -49,7 +49,7 @@ You'll create this game in 2 parts:
 </details>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework01-ericemmendorfer
 Grade  
  Reasoning  
 Code Corrected
@@ -64,7 +64,7 @@ Description
  <li> sfmovie.mjs and report.mjs - create functions and a short program to read data from a file and analyze that data using map, reduce, and filter  </li>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework02-ericemmendorfer
 Grade    
 Reasoning    
 Code Corrected
@@ -94,7 +94,7 @@ You can only use the following modules for this assignment →
 ⚠️You can't use the http module… or install additional web related libraries, such as express  
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework03-ericemmendorfer
 Grade  
  Reasoning  
 Code Corrected
@@ -118,7 +118,7 @@ In this homework you'll be working with:
 <li>storing and managing data in-memory  </li>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework04-ericemmendorfer
 Grade  
  Reasoning  
 Code Corrected
@@ -161,7 +161,7 @@ A site that has a list of movies:
 <li>the second page allows the user to add movies: /movies/add </li>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework05-ericemmendorfer
 Grade  
  Reasoning  
 Code Corrected
@@ -222,7 +222,7 @@ The app has 5 pages and 3 forms:
 <li>/article/:slug - detail page for a specific article </li>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-ericemmendorfer
 Grade  
  Reasoning  
 Code Corrected
@@ -247,7 +247,7 @@ You will:
 <li>Use JavaScript to trigger background requests to the API from the form submit buttons</li>
 </details>
 
-Code Submitted  
+Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework07-ericemmendorfer
 Grade  
  Reasoning  
 Code Corrected
@@ -257,7 +257,7 @@ Code Corrected
 <summary>Overview:</summary>  
 </details>
 
-Code Submitted  
+Code Submitted: https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-ericemmendorfer
 Grade  
  Reasoning  
 Code Corrected
