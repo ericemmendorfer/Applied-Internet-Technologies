@@ -253,8 +253,5 @@ To fix:
 
 
 ### Final Project (AteIt)
-<details>
-<summary>Overview:</summary>  
-</details>
 
 Repository: https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-ericemmendorfer
