@@ -57,10 +57,9 @@ You'll create this game in 2 parts:
 </details>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework01-ericemmendorfer
-Grade  
- Reasoning  
-Code Corrected
+Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework01-ericemmendorfer  
+To fix:
+
 
 ### Homework 2: Higher Order Functions, Classes, Net Module
   
@@ -72,10 +71,8 @@ Description
  <li> sfmovie.mjs and report.mjs - create functions and a short program to read data from a file and analyze that data using map, reduce, and filter  </li>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework02-ericemmendorfer
-Grade    
-Reasoning    
-Code Corrected
+Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework02-ericemmendorfer
+To fix:
 
 ### Homework 3: A Web Server for Static Files
 <details>
@@ -102,10 +99,9 @@ You can only use the following modules for this assignment →
 ⚠️You can't use the http module… or install additional web related libraries, such as express  
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework03-ericemmendorfer
-Grade  
- Reasoning  
-Code Corrected
+Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework03-ericemmendorfer
+To fix:  
+
 
 ### Homework 4: Kaomoji Texting
 <details>
@@ -126,10 +122,9 @@ In this homework you'll be working with:
 <li>storing and managing data in-memory  </li>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework04-ericemmendorfer
-Grade  
- Reasoning  
-Code Corrected
+Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework04-ericemmendorfer
+To fix:  
+
 
 ### Homework 5: More Colors / Let's Watch Some Movies! (Sessions and Storing Data)
 <details>
@@ -169,10 +164,9 @@ A site that has a list of movies:
 <li>the second page allows the user to add movies: /movies/add </li>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework05-ericemmendorfer
-Grade  
- Reasoning  
-Code Corrected
+Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework05-ericemmendorfer  
+To fix:  
+
 
 ### Homework 6: Authentication and One Hand of Blackjack (Client Side JavaScript)
 <details>
@@ -230,10 +224,9 @@ The app has 5 pages and 3 forms:
 <li>/article/:slug - detail page for a specific article </li>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-ericemmendorfer
-Grade  
- Reasoning  
-Code Corrected
+Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-ericemmendorfer  
+To fix:  
+
 
 ### Homework 7: Anonymous Q&AIT (AJAX)
 <details>
@@ -255,17 +248,13 @@ You will:
 <li>Use JavaScript to trigger background requests to the API from the form submit buttons</li>
 </details>
 
-Code Submitted  https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework07-ericemmendorfer
-Grade  
- Reasoning  
-Code Corrected
+Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework07-ericemmendorfer  
+To fix:  
+
 
 ### Final Project (AteIt)
 <details>
 <summary>Overview:</summary>  
 </details>
 
-Code Submitted: https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-ericemmendorfer
-Grade  
- Reasoning  
-Code Corrected
+Repository: https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-ericemmendorfer
