@@ -9,7 +9,7 @@ Students that successfully complete CSCI-UA 467 Applied Internet Technology are 
 </details>
 
 
-Homework and projects from Applied Internet Technologies course Spring 2024
+## Homework and projects from Applied Internet Technologies course Spring 2024
 
 ### Homework 1: Crazy 8's
 <details>
