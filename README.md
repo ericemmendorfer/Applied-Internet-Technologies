@@ -5,7 +5,10 @@ Taught by Joseph Versoza
 <summary>Course Description:</summary>  
 CSCI-UA 467 Applied Internet Technology  
   
-Students that successfully complete CSCI-UA 467 Applied Internet Technology are not eligible to take CSCI-UA 61 Web Development and Programming. Applied Internet Technology is a practical introduction to creating modern web applications. It covers full-stack (that is, every aspect of building a database driven web application: server programming, database implementation, frontend markup, styling and interactivity) web development. It includes topics such as database and data model design, web application architecture, separation of logic and presentation, handling user input and processing form data, managing asynchronous processes, strategies for creating real-time web applications, and handling client-side interactivity. Students will use current server and client-side web frameworks and libraries to build dynamic, data-driven sites. Various applications to support development will also be introduced, such as version control, static analysis tools, and build systems.
+Students that successfully complete CSCI-UA 467 Applied Internet Technology are not eligible to take CSCI-UA 61 Web Development and Programming. Applied Internet Technology is a practical introduction to creating modern web applications. It covers full-stack (that is, every aspect of building a database driven web application: server programming, database implementation, frontend markup, styling and interactivity) web development. It includes topics such as database and data model design, web application architecture, separation of logic and presentation, handling user input and processing form data, managing asynchronous processes, strategies for creating real-time web applications, and handling client-side interactivity. Students will use current server and client-side web frameworks and libraries to build dynamic, data-driven sites. Various applications to support development will also be introduced, such as version control, static analysis tools, and build systems.  
+<br>
+
+Teck Stack: JavaScript, TypeScript, Node.js, Git, Github, Express, MongoDB, HTML, CSS
 </details>
 
 
