@@ -61,7 +61,7 @@ You'll create this game in 2 parts:
 </details>
 
 Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework01-ericemmendorfer  
-To fix:
+
 
 
 ### Homework 2: Higher Order Functions, Classes, Net Module
@@ -75,7 +75,7 @@ Description
 </details>
 
 Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework02-ericemmendorfer
-To fix:
+
 
 ### Homework 3: A Web Server for Static Files
 <details>
@@ -103,7 +103,7 @@ You can only use the following modules for this assignment →
 </details>
 
 Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework03-ericemmendorfer
-To fix:  
+
 
 
 ### Homework 4: Kaomoji Texting
@@ -126,7 +126,6 @@ In this homework you'll be working with:
 </details>
 
 Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework04-ericemmendorfer
-To fix:  
 
 
 ### Homework 5: More Colors / Let's Watch Some Movies! (Sessions and Storing Data)
@@ -168,7 +167,7 @@ A site that has a list of movies:
 </details>
 
 Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework05-ericemmendorfer  
-To fix:  
+
 
 
 ### Homework 6: Authentication and One Hand of Blackjack (Client Side JavaScript)
@@ -228,7 +227,7 @@ The app has 5 pages and 3 forms:
 </details>
 
 Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-ericemmendorfer  
-To fix:  
+
 
 
 ### Homework 7: Anonymous Q&AIT (AJAX)
@@ -252,7 +251,7 @@ You will:
 </details>
 
 Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework07-ericemmendorfer  
-To fix:  
+
 
 
 ### Final Project (AteIt)
