@@ -14,7 +14,7 @@ Teck Stack: JavaScript, TypeScript, Node.js, Git, Github, Express, MongoDB, HTML
 
 ## Homework and projects from Applied Internet Technologies course Spring 2024
 
-### Homework 1: Crazy 8's
+### [Homework 1: Crazy 8's](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework01-ericemmendorfer)
 <details>
 <summary>Overview:</summary>  
 Description
@@ -60,11 +60,10 @@ You'll create this game in 2 parts:
 </details>
 </details>
 
-Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework01-ericemmendorfer  
 
 
 
-### Homework 2: Higher Order Functions, Classes, Net Module
+### [Homework 2: Higher Order Functions, Classes, Net Module](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework02-ericemmendorfer)
   
 <details>
 <summary>Overview:</summary>  
@@ -74,10 +73,9 @@ Description
  <li> sfmovie.mjs and report.mjs - create functions and a short program to read data from a file and analyze that data using map, reduce, and filter  </li>
 </details>
 
-Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework02-ericemmendorfer
 
 
-### Homework 3: A Web Server for Static Files
+### [Homework 3: A Web Server for Static Files](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework03-ericemmendorfer)
 <details>
 <summary>Overview:</summary>  
 Description: <br> 
@@ -102,11 +100,9 @@ You can only use the following modules for this assignment →
 ⚠️You can't use the http module… or install additional web related libraries, such as express  
 </details>
 
-Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework03-ericemmendorfer
 
 
-
-### Homework 4: Kaomoji Texting
+### [Homework 4: Kaomoji Texting](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework04-ericemmendorfer)
 <details>
 <summary>Overview:</summary>  
 Description  
@@ -125,10 +121,10 @@ In this homework you'll be working with:
 <li>storing and managing data in-memory  </li>
 </details>
 
-Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework04-ericemmendorfer
 
 
-### Homework 5: More Colors / Let's Watch Some Movies! (Sessions and Storing Data)
+
+### [Homework 5: More Colors / Let's Watch Some Movies! (Sessions and Storing Data)](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework05-ericemmendorfer  )
 <details>
 <summary>Overview:</summary>  
 Goals:
@@ -166,11 +162,10 @@ A site that has a list of movies:
 <li>the second page allows the user to add movies: /movies/add </li>
 </details>
 
-Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework05-ericemmendorfer  
 
 
 
-### Homework 6: Authentication and One Hand of Blackjack (Client Side JavaScript)
+### [Homework 6: Authentication and One Hand of Blackjack (Client Side JavaScript)](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-ericemmendorfer )
 <details>
 <summary>Overview:</summary>  
 Description  <br>
@@ -225,12 +220,11 @@ The app has 5 pages and 3 forms:
 <li>/article/add - add new article form  </li>
 <li>/article/:slug - detail page for a specific article </li>
 </details>
-
-Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework06-ericemmendorfer  
-
+ 
 
 
-### Homework 7: Anonymous Q&AIT (AJAX)
+
+### [Homework 7: Anonymous Q&AIT (AJAX)](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework07-ericemmendorfer)
 <details>
 <summary>Overview:</summary>  
 Goals / Topics Covered:
@@ -249,11 +243,13 @@ You will:
 <li> Implement routes to create an API for retrieving questions and adding new ones  </li>
 <li>Use JavaScript to trigger background requests to the API from the form submit buttons</li>
 </details>
-
-Code https://github.com/nyu-csci-ua-0467-001-002-spring-2024/homework07-ericemmendorfer  
-
+  
 
 
-### Final Project (AteIt)
 
-Repository: https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-ericemmendorfer
+### [Final Project (AteIt)](https://github.com/nyu-csci-ua-0467-001-002-spring-2024/final-project-ericemmendorfer)
+<details>
+<summary>Overview:</summary>  
+  Self designed project to display understanding of topics taught in class, and to demonstrate new research topics
+</details>
+
